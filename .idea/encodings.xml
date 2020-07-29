@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Admin-API" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Admin-API/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Retail-API" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Retail-API/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/customer-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/customer-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-service-registry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-service-registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inventory-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inventory-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/invoice-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/invoice-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/levelUp-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/levelUp-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/queue-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/queue-service/src/main/java" charset="UTF-8" />
+  </component>
+</project>

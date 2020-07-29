@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Admin-API/Admin-API.iml" filepath="$PROJECT_DIR$/Admin-API/Admin-API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Capstone Final Draft.iml" filepath="$PROJECT_DIR$/.idea/Capstone Final Draft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server/Configuration-Server.iml" filepath="$PROJECT_DIR$/config-server/config-server/Configuration-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Retail-API/Retail-API.iml" filepath="$PROJECT_DIR$/Retail-API/Retail-API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customer-service/customer-service.iml" filepath="$PROJECT_DIR$/customer-service/customer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-service-registry/eureka-service-registry.iml" filepath="$PROJECT_DIR$/eureka-service-registry/eureka-service-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inventory-service/inventory-service.iml" filepath="$PROJECT_DIR$/inventory-service/inventory-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/invoice-service/invoice-service.iml" filepath="$PROJECT_DIR$/invoice-service/invoice-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/levelUp-service/levelUp-service.iml" filepath="$PROJECT_DIR$/levelUp-service/levelUp-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-service/product-service.iml" filepath="$PROJECT_DIR$/product-service/product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queue-service/queue-service.iml" filepath="$PROJECT_DIR$/queue-service/queue-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/spring-config-server.iml" filepath="$PROJECT_DIR$/config-server/spring-config-server.iml" />
+    </modules>
+  </component>
+</project>
